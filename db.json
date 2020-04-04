@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": 2,
+      "name": "Romance",
+      "display_name": "Romance Movies",
+      "description": "A motion picture that involves romance or affection. Love stories, courtship, marriage, etc."
+    },
+    {
+      "id": 3,
+      "name": "Comedy",
+      "display_name": "Comedic Movies",
+      "description": "A motion picture that involves humor, designed to make people laugh!"
+    }
+
+  ],
+  "products": [
+    {
+      "id": 2,
+      "category": 3,
+      "name": "Anchorman",
+      "display_name": "Comedic Movies",
+      "description": "A motion picture that involves humor, designed to make people laugh!"
+    },
+    {
+      "id": 3,
+      "category": 1,
+      "name": "Sleepless in Seattle",
+      "display_name": "Romance Movies",
+      "description": "A motion picture that involves romance or affection. Love stories, courtship, marriage, etc."
+    }
+  ]
+}
