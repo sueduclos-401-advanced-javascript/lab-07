@@ -6,11 +6,11 @@ Code 401 Lab 07 - Express Server
 
 ### Links and Resources
 
-- [submission PR]()
+- [Submission PR]()
 - [ci/cd]() (NA)
-- [back-end server url](NA) 
-- [front-end application](NA)
-- [swagger API](NA)
+- [Back-end server url](NA) 
+- [Front-end application](NA)
+- [Swagger API](NA)
 
 ### Documentation
 
@@ -30,19 +30,11 @@ N/A
 
 - `PORT` - Port Number
 
-#### How to initialize/run your application (where applicable)
-
-- N/A
-
-#### How to use your library (where applicable)
-
-
 #### Tests
 
 - How do you run tests?
 - Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
-
+- Describe any tests that you did not complete, skipped, etc.
 - Unit Tests: N/A
 
 #### UML
