@@ -7,7 +7,7 @@ Code 401 Lab 07 - Express Server
 ### Links and Resources
 
 - [Submission PR](https://github.com/sueduclos-401-advanced-javascript/lab-07/pull/2)
-- [ci/cd]() (NA)
+- [ci/cd](https://github.com/sueduclos-401-advanced-javascript/lab-07/actions)
 - [Back-end server url](NA) 
 - [Front-end application](NA)
 - [Swagger API](NA)
